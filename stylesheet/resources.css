@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.html, body {
+    height: 100%;
+}
+
+.bg-img {
+    height: 100vh;
+    width: 100%;
+    background-image:url("../images/Hero-bg.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
+
+ .banner-heading2
+{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+} 
+
+
+    
+
+.Button2{
+    display: flex;
+    height: 48px ;
+    width: 174px;
+}
+
+
+ 
